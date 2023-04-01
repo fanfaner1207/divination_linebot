@@ -3,7 +3,7 @@
 簡介：這是一個骰子卡小linebot 在沒有牌的情況使用
 
 google cloud run 有使用到docker
-用google cloud run執行python flask打包過後的容器
+用docker執行python flask打包過後的容器
 requirements.txt內是一些需要安裝在docker的python套件跟版本
 
 ＃注意
